@@ -5,7 +5,7 @@ class Segmentcli < Formula
   desc "Command Line Tool for Segment"
   homepage "https://github.com/segment-integrations/segmentcli"
   url "https://github.com/segment-integrations/segmentcli.git"
-  version "0.0.5"
+  version "1.0.0"
   sha256 "c51075cbfd1490fe2333ef3a46348aa5bad4ea1a1f35e3db1d335b51cecca5b4"
   license ""
 
