@@ -6,8 +6,8 @@ class SwiftCreateXcframework < Formula
   homepage "https://github.com/segment-integrations/swift-create-xcframework"
   url "https://github.com/segment-integrations/swift-create-xcframework.git"
   head "https://github.com/segment-integrations/swift-create-xcframework.git", branch: "main"
-  version "2.4.0"
-  sha256 "5c0773aed1aa0b4cfd0f6ca7e5e96a08719771ad5ed40294203d49d544a26fc7"
+  version "2.4.1"
+  sha256 "c72d6bbc6f650ce71093766c33b6e3f51a9857e8400d34f441e9f6dfdc0f1b59"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
