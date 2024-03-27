@@ -6,7 +6,7 @@ class SwiftCreateXcframework < Formula
   homepage "https://github.com/segmentio/swift-create-xcframework"
   url "https://github.com/segmentio/swift-create-xcframework.git"
   version "1.1.0"
-  sha256 "f51d8fb2ccabc44329f64f317f0f3069ccc1fc61"
+  sha256 :no_check
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
