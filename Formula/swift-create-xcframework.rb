@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class SwiftCreateXCFramework < Formula
+class SwiftCreateXcframework < Formula
   desc "Creates an XCFramework out of a Swift Package using xcodebuild"
   homepage "https://github.com/segmentio/swift-create-xcframework"
   url "https://github.com/segmentio/swift-create-xcframework.git"
